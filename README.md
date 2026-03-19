@@ -43,29 +43,4 @@ events efficiently is something every real world application does.
 Ali Abbas Shah
 [LinkedIn](https://www.linkedin.com/in/alyabbas11)
 [GitHub](https://github.com/aly-abbas11)
-```
 
----
-
-## LinkedIn Project Details:
-
-**Project Name:**
-```
-Event Scheduler — DSA C++ Project
-```
-
-**Description:**
-```
-A third semester DSA project built in C++ featuring a console based 
-event scheduler with bubble sort for priority sorting, linear search, 
-dynamic vector storage and full CRUD operations. Demonstrates how core 
-data structures and algorithms concepts apply to real world problems.
-```
-
-**Skills to tag:**
-```
-C++
-Data Structures
-Algorithms
-Object Oriented Programming
-Software Development
